@@ -1,0 +1,3 @@
+enum SampleBrokerTopics {
+  First = "first",
+}
